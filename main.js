@@ -103,6 +103,10 @@ function animate() {
   torus.rotation.x += 0.01;
   torus.rotation.y += 0.01;
   torus.rotation.z += 0.01;
+
+  moon.rotation.x += 0.005;
+  moon.rotation.y += 0.0075;
+  moon.rotation.z += 0.005;
   
   controls.update();
   renderer.render(scene,camera)
