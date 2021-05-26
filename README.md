@@ -1,6 +1,6 @@
 # 3d scroll page with ThreeJS
 
-vanilla javascript demo built with [ViteJS](https://vitejs.dev/) and [ThreeJS](https://threejs.org/)
+vanilla javascript demo built with [ViteJS](https://vitejs.dev/) and [ThreeJS](https://threejs.org/), and deployed for your viewing pleasure at [Netify](https://priceless-goldberg-6b7771.netlify.app/)
 
 ## Usage
 ```
