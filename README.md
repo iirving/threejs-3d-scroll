@@ -8,3 +8,5 @@ git clone <this-repo>
 npm install
 npm run dev
 ```
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f6f14e9-77d8-4b0d-bc58-b424f6588e6f/deploy-status)](https://app.netlify.com/sites/priceless-goldberg-6b7771/deploys)
